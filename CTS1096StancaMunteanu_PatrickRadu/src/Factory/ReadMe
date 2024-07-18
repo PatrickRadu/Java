@@ -1,0 +1,3 @@
+Am utilizat FactoryMethod pentru a avea posibilitatea de a extinde usor
+in cazul in care se doreste adaugarea unui nou tip de exercitiu
+si pentru ca deja aveam mai multe tipuri de exercitii

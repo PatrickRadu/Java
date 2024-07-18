@@ -1,0 +1,3 @@
+M-am folosit de strategy a diferentia modul de a face predictia in functie de
+tipul de predictie dorit, strategy este un dessign pattern flexibil si usor
+de extins la viitoarele tipuri de predictie
